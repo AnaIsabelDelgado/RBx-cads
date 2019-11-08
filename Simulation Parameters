@@ -1,0 +1,43 @@
+Simulation Parameters 
+Model 
+  •	Simple Model A
+  •	Simple Model B 
+
+-	Main heat sources
+  o	Peltier area (26 W) 
+  o	Back heat source area  (61W) 
+
+-	Fluid properties (Water) 
+  o	Flow rate 1 (L/m)
+  o	Temperature (18 °C)  
+
+-	Material Properties 
+  o	Aluminium 6061- T651
+  o	Copper 
+
+Assumptions 
+1.	Steady state system 
+2.	No fouling 
+3.	No corrosion 
+4.	Resistance in negligible 
+5.	Incompressible fluid without phase changes 
+6.	Tamb constant at (18 °C)  
+
+Expectations 
+•	The system shall lower the temperatures 
+•	Uniform across the box but in particular on the: 
+  1) SiPM,
+  2) CCgM,  
+  3) QIE boards.
+•	The box shall be thermal neutral (should not vary the temperature of the surroundings components).
+•	Pressure is 10 bars.
+•	Structural Analysis 
+
+Possible modification 
+•	Alternative option to lower the temperature of the box is to replace SiPMs half wave in the HL-LHC run. 
+•	Current model is two plates connected in series. We can test connecting plates in parallel.
+•	The flow can be adjusted 
+•	Eliminate grooves of the bottom plate. 
+•	Having Copper on the bottom and top plate 
+•	Tubes in parallel with a manyfold
+
